@@ -1,0 +1,332 @@
+---
+title: "Simulado FCC"
+subtitle: "Constituição Federal — Arts. 70 e 71"
+author: "Preparação para concursos"
+lang: pt-BR
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    show-slide-number: all
+    incremental: false
+    transition: fade
+    center: false
+    toc: false
+    chalkboard: false
+    preview-links: auto
+    width: 1280
+    height: 720
+    margin: 0.08
+    smaller: true
+    code-overflow: wrap
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+## Como usar este simulado
+
+- Resolva as questões antes de consultar o gabarito.
+- Cada questão tem cinco alternativas: A, B, C, D e E.
+- Use as setas do teclado para navegar pelos slides.
+- As questões 1 a 4 foram apresentadas como **questões reais adaptadas**; confirme a prova e o enunciado original na fonte indicada antes de atribuir-lhes caráter de transcrição oficial.
+- As questões 5 a 16 são **inéditas**, elaboradas no perfil de cobrança da FCC.
+
+::: {.callout-note}
+**Base normativa:** Constituição Federal de 1988, arts. 70 e 71, considerando a redação atualizada.
+:::
+
+# Parte I — Questões reais adaptadas
+
+## Questão 1 — TCU e contas presidenciais
+
+**Referência indicada anteriormente:** FCC, TCE-AM, Analista de Controle Externo, 2008. Enunciado resumido/adaptado.
+
+Nos termos do art. 71, I, da Constituição Federal, compete ao Tribunal de Contas da União, em relação às contas prestadas anualmente pelo Presidente da República:
+
+A. Apreciá-las mediante parecer prévio elaborado em 60 dias a contar do recebimento.
+
+B. Julgá-las definitivamente em 30 dias.
+
+C. Apreciá-las mediante parecer definitivo em 90 dias.
+
+D. Julgá-las mediante parecer prévio em 60 dias.
+
+E. Aprová-las, cabendo ao Congresso Nacional apenas homologar a decisão.
+
+## Questão 2 — Parecer prévio
+
+**Referência indicada anteriormente:** FCC, TRT da 8ª Região, Analista Judiciário — Área Administrativa, 2010. Enunciado resumido/adaptado.
+
+A competência constitucional do TCU em relação às contas anuais do Presidente da República consiste em:
+
+A. Julgar as contas em 90 dias.
+
+B. Apreciá-las mediante parecer prévio em 60 dias, contados do recebimento.
+
+C. Aprovar definitivamente as contas em 30 dias.
+
+D. Emitir parecer definitivo em 60 dias.
+
+E. Julgar as contas mediante parecer prévio em 60 dias.
+
+## Questão 3 — Sanções do TCU
+
+**Referência indicada anteriormente:** FCC, PGE-MT, Procurador do Estado, 2011. Enunciado resumido/adaptado.
+
+Assinale a alternativa compatível com as competências constitucionais do TCU.
+
+A. Julgar definitivamente as contas anuais do Presidente da República.
+
+B. Registrar todas as nomeações para cargos em comissão.
+
+C. Aplicar aos responsáveis as sanções previstas em lei, inclusive multa proporcional ao dano ao erário.
+
+D. Sustar diretamente qualquer contrato, sem participação do Congresso Nacional.
+
+E. Fiscalizar somente recursos estaduais repassados à União.
+
+## Questão 4 — Recursos federais transferidos
+
+**Referência indicada anteriormente:** FCC, TRT da 20ª Região, Analista Judiciário — Contabilidade, 2011. Enunciado resumido/adaptado.
+
+Segundo o art. 71, VI, compete ao TCU:
+
+A. Fiscalizar a aplicação de recursos repassados pela União, mediante convênio, acordo, ajuste ou instrumento congênere, a Estados, ao Distrito Federal ou a Municípios.
+
+B. Fiscalizar apenas recursos transferidos aos Estados.
+
+C. Fiscalizar somente transferências realizadas por convênio.
+
+D. Fiscalizar exclusivamente recursos transferidos a entidades privadas.
+
+E. Fiscalizar recursos repassados pelos Estados à União.
+
+# Parte II — Questões inéditas
+
+## Questão 5 — Fiscalização constitucional
+
+Nos termos do art. 70 da Constituição Federal, a fiscalização contábil, financeira, orçamentária, operacional e patrimonial considera, entre outros aspectos:
+
+A. Exclusivamente legalidade e eficiência.
+
+B. Legalidade, legitimidade, economicidade, aplicação das subvenções e renúncia de receitas.
+
+C. Apenas legalidade das despesas e regularidade dos contratos.
+
+D. Conveniência e oportunidade, exclusivamente pelo Poder Judiciário.
+
+E. Legitimidade e economicidade, excluídas as renúncias de receitas.
+
+## Questão 6 — Dever de prestar contas
+
+Uma entidade privada recebe e administra recursos públicos federais. Conforme o art. 70, parágrafo único, da Constituição Federal:
+
+A. Somente pessoas jurídicas de direito público prestam contas.
+
+B. Apenas servidores públicos responsáveis pela execução financeira prestam contas.
+
+C. Entidades privadas estão dispensadas de prestar contas.
+
+D. Pessoas físicas ou jurídicas, públicas ou privadas, que se enquadrem nas hipóteses constitucionais devem prestar contas.
+
+E. O dever depende de vínculo estatutário com a União.
+
+## Questão 7 — Contas do Presidente da República
+
+Compete ao TCU, quanto às contas anuais prestadas pelo Presidente da República:
+
+A. Julgá-las definitivamente por acórdão em 60 dias.
+
+B. Aprová-las previamente, cabendo ao Congresso apenas homologar.
+
+C. Apreciá-las mediante parecer prévio, elaborado em 60 dias a contar do recebimento.
+
+D. Julgá-las mediante parecer prévio em 90 dias.
+
+E. Apreciá-las mediante parecer definitivo em 30 dias.
+
+## Questão 8 — Contas dos administradores
+
+De acordo com a Constituição Federal, compete ao TCU:
+
+A. Apreciar as contas dos administradores e julgar as contas presidenciais.
+
+B. Julgar as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos, bem como as de quem der causa a prejuízo ao erário nas hipóteses constitucionais.
+
+C. Julgar exclusivamente as contas da Administração direta.
+
+D. Apreciar contas de administradores apenas por solicitação do Congresso.
+
+E. Emitir parecer prévio sobre todas as contas de gestores, sem julgá-las.
+
+## Questão 9 — Admissão de pessoal
+
+O TCU aprecia, para fins de registro, a legalidade dos atos de admissão de pessoal, observada a exceção constitucional relativa:
+
+A. A todas as admissões por concurso público.
+
+B. Exclusivamente às contratações temporárias.
+
+C. Às nomeações para cargos de provimento em comissão.
+
+D. Às admissões realizadas por autarquias federais.
+
+E. A todos os atos da Administração indireta.
+
+## Questão 10 — Aposentadorias, reformas e pensões
+
+O TCU aprecia, para fins de registro, a legalidade das concessões de aposentadorias, reformas e pensões, ressalvadas:
+
+A. Todas as concessões realizadas após cinco anos.
+
+B. As concessões de servidores da Administração indireta.
+
+C. As melhorias posteriores que não alterem o fundamento legal do ato concessório.
+
+D. As concessões que envolvam recursos transferidos aos Municípios.
+
+E. Todas as concessões decorrentes de decisões administrativas.
+
+## Questão 11 — Inspeções e auditorias
+
+O TCU pode realizar inspeções e auditorias de natureza contábil, financeira, orçamentária, operacional e patrimonial:
+
+A. Exclusivamente por determinação do Presidente da República.
+
+B. Apenas mediante autorização judicial.
+
+C. Somente por iniciativa do Senado Federal.
+
+D. Por iniciativa própria ou nas hipóteses constitucionais de iniciativa da Câmara, do Senado e de comissão técnica ou de inquérito.
+
+E. Exclusivamente nas unidades administrativas do Poder Executivo.
+
+## Questão 12 — Empresas supranacionais
+
+Quanto às empresas supranacionais, compete ao TCU:
+
+A. Fiscalizar todas as empresas estrangeiras que façam negócios no Brasil.
+
+B. Fiscalizar as contas nacionais das empresas supranacionais de cujo capital social a União participe direta ou indiretamente, nos termos do tratado constitutivo.
+
+C. Fiscalizar apenas empresas cujo capital pertença integralmente à União.
+
+D. Julgar as contas de qualquer empresa privada que receba recursos estaduais.
+
+E. Fiscalizar somente empresas controladas diretamente pelo Presidente da República.
+
+## Questão 13 — Recursos transferidos pela União
+
+A União repassou recursos a determinado Município mediante convênio. Conforme a Constituição Federal, compete:
+
+A. Exclusivamente à Câmara Municipal fiscalizar a aplicação.
+
+B. Exclusivamente ao Tribunal de Contas do Estado.
+
+C. Ao TCU fiscalizar a aplicação dos recursos repassados pela União.
+
+D. Exclusivamente ao órgão federal concedente, sem controle externo.
+
+E. Ao Poder Judiciário realizar auditoria preventiva obrigatória.
+
+## Questão 14 — Sanções
+
+Em caso de ilegalidade de despesa ou irregularidade de contas, o TCU poderá:
+
+A. Aplicar apenas advertência.
+
+B. Aplicar sanções previstas em lei, inclusive multa proporcional ao dano causado ao erário.
+
+C. Aplicar diretamente penas privativas de liberdade.
+
+D. Aplicar multa somente após condenação criminal transitada em julgado.
+
+E. Aplicar sanções sem previsão legal, desde que haja prejuízo.
+
+## Questão 15 — Sustação de atos e contratos
+
+Verificada ilegalidade e não atendida a determinação para correção, a Constituição disciplina a sustação. No caso específico de contrato:
+
+A. A sustação será adotada diretamente pelo Presidente da República.
+
+B. A sustação será adotada diretamente pelo TCU, sem participação do Congresso.
+
+C. A sustação será adotada diretamente pelo Congresso Nacional, que solicitará de imediato ao Poder Executivo as medidas cabíveis.
+
+D. A sustação dependerá sempre de decisão judicial transitada em julgado.
+
+E. A sustação caberá exclusivamente à Câmara dos Deputados.
+
+## Questão 16 — Eficácia das decisões e relatórios
+
+Assinale a alternativa correta.
+
+A. Toda decisão do TCU possui eficácia de título executivo.
+
+B. As decisões que imputem débito ou multa terão eficácia de título executivo; o TCU encaminhará ao Congresso relatórios trimestrais e anuais de suas atividades.
+
+C. Somente decisões que imputem débito, excluídas multas, terão eficácia executiva.
+
+D. O TCU encaminhará relatório exclusivamente ao Presidente da República, uma vez por ano.
+
+E. As decisões do TCU somente terão eficácia executiva após homologação judicial.
+
+# Gabarito comentado
+
+::: {.callout-warning}
+**Pare aqui se ainda estiver resolvendo.** O gabarito começa no próximo slide.
+:::
+
+## Gabarito — questões 1 a 8
+
+| Questão | Resposta | Fundamento |
+|---:|:---:|---|
+| 1 | A | Art. 71, I: apreciação das contas presidenciais por parecer prévio em 60 dias. |
+| 2 | B | Art. 71, I: o TCU aprecia; não julga as contas presidenciais. |
+| 3 | C | Art. 71, VIII: sanções previstas em lei, inclusive multa proporcional ao dano. |
+| 4 | A | Art. 71, VI: fiscalização de recursos repassados pela União. |
+| 5 | B | Art. 70: legalidade, legitimidade, economicidade, subvenções e renúncia de receitas. |
+| 6 | D | Art. 70, parágrafo único: pessoas físicas ou jurídicas, públicas ou privadas. |
+| 7 | C | Art. 71, I: parecer prévio em 60 dias a contar do recebimento. |
+| 8 | B | Art. 71, II: julgamento das contas dos administradores e demais responsáveis. |
+
+## Gabarito — questões 9 a 16
+
+| Questão | Resposta | Fundamento |
+|---:|:---:|---|
+| 9 | C | Art. 71, III: exceção para nomeações em cargos de provimento em comissão. |
+| 10 | C | Art. 71, III: ressalva das melhorias posteriores que não alterem o fundamento legal. |
+| 11 | D | Art. 71, IV: iniciativa própria ou iniciativa dos órgãos e comissões indicados. |
+| 12 | B | Art. 71, V: participação direta ou indireta da União, conforme o tratado constitutivo. |
+| 13 | C | Art. 71, VI: fiscalização da aplicação dos recursos repassados pela União. |
+| 14 | B | Art. 71, VIII: sanções legais, inclusive multa proporcional ao dano. |
+| 15 | C | Art. 71, § 1º: a sustação de contrato cabe diretamente ao Congresso Nacional. |
+| 16 | B | Art. 71, §§ 3º e 4º: título executivo para débito ou multa e relatórios trimestrais e anuais. |
+
+# Revisão final — pegadinhas FCC
+
+## Quem aprecia e quem julga?
+
+| Competência | Atribuição do TCU |
+|---|---|
+| Contas anuais do Presidente da República | **Apreciar** e emitir parecer prévio |
+| Contas dos administradores públicos | **Julgar** |
+| Admissão de pessoal | Apreciar a legalidade para fins de registro, com exceção dos cargos em comissão |
+| Aposentadorias, reformas e pensões | Apreciar a legalidade para fins de registro, observada a ressalva constitucional |
+
+## Prazos e detalhes para memorizar
+
+- **60 dias:** prazo para o TCU elaborar o parecer prévio sobre as contas anuais do Presidente da República, contado do recebimento.
+- **90 dias:** prazo previsto no art. 71, § 2º, para a situação específica em que o Congresso Nacional ou o Poder Executivo não efetivem as medidas relativas à sustação de contrato; nessa hipótese, o Tribunal decidirá a respeito.
+- **Trimestral e anualmente:** periodicidade dos relatórios de atividades do TCU ao Congresso Nacional.
+- **Título executivo:** decisões das quais resulte imputação de débito ou multa.
+
+## Referência normativa
+
+Constituição Federal de 1988, arts. 70 e 71, texto atualizado:
+
+https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm
+
+**Estratégia de prova:** a FCC costuma explorar a troca entre “apreciar” e “julgar”, a exceção das nomeações para cargos em comissão, a competência do Congresso para sustar contratos e a diferença entre os prazos de 60 e 90 dias.
